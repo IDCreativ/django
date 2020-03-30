@@ -25,7 +25,7 @@ SECRET_KEY = '9=(tluyai$sh3+#^&^fwt8^xf^w%mlzml)n#m7f236wisl(8s5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['id-creativ.alwaysdata.net',]
+ALLOWED_HOSTS = ['id-creativ.alwaysdata.net','localhost',]
 
 
 # Application definition
